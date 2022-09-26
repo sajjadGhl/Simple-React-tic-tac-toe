@@ -1,0 +1,16 @@
+.board-container__dark {
+    background-color: rgba(33, 33, 0, 0.94);
+}
+
+.board-container__dark .board, .board-container__dark .board__btn {
+    background-color: #054337;
+    color: #c7c7c7;
+}
+
+.board-container__dark .board__item {
+    border-color: #a9a9a9;
+}
+
+.board-container__dark .game-mode__txt, .board-container__dark .board__info {
+    color: #909090;
+}

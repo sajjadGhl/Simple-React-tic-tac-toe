@@ -1,0 +1,26 @@
+@media screen and (max-width: 450px) {
+    .board {
+        padding: 1rem;
+    }
+}@media screen and (max-width: 380px) {
+    .board {
+        padding: 3rem 1rem;
+    }
+    .board__info {
+        font-size: 2rem;
+    }
+}
+@media screen and (max-width: 320px) {
+    .board__btn {
+        padding: 1rem;
+        font-size: 2rem;
+    }
+    .board__info {
+        font-size: 1.5rem;
+    }
+}
+@media screen and (max-width: 220px) {
+    .board__btn {
+        padding: 1rem;
+    }
+}
